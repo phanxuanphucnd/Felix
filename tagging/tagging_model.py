@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Copyright (c) 2022 by Phuc Phan
+
 import torch
 from transformers import AutoConfig, AutoModel, RobertaTokenizer
 import torch.nn as nn

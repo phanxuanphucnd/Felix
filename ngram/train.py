@@ -1,5 +1,7 @@
-import pickle
+# -*- coding: utf-8 -*-
+# Copyright (c) 2022 by Phuc Phan
 
+import pickle
 from pathlib import Path
 from utils import load_data
 from ngram_lm import LanguageModel

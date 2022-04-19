@@ -1,6 +1,7 @@
-"""Constants used by Felix Model."""
+# -*- coding: utf-8 -*-
+# Copyright (c) 2022 by Phuc Phan
 
-# Edit operations
+
 KEEP = 'KEEP'
 DELETE = 'DELETE'
 PAD_TAG = 'PAD'

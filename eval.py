@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Copyright (c) 2022 by Phuc Phan
+
 import numpy as np
 import pandas as pd
 
